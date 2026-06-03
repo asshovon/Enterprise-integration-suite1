@@ -1,5 +1,5 @@
 {
-  "name": "Enterprise integration Suite",
+  "name": "Enterprise integration Suite1",
   "description": "Integration portal linking a modern Inventory Management core with Salesforce CRM, Odoo ERP dashboards, and Power Automate support desks.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_LoCAL_API"]
