@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "================================================================="
-echo "       C# Enterprise App Integration Suite (Local Launcher)"
+echo "       C# Enterprise App Integration Suite1 (Local Launcher)"
 echo "================================================================="
 echo ""
 echo "Launching local web service on http://localhost:3000..."
